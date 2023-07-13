@@ -1,0 +1,15 @@
+click==8.1.3
+cmake==3.26.4
+colorama==0.4.6
+cvzone==1.5.6
+dilib==0.4.3
+dlib @ file:///C:/Users/HAMZA%20ABBAS/PycharmProjects/Face_recgonization_With_Realtime_DataBase/venv_detecion_course/Scripts/face_recog_dlib_file/dlib-19.19.0-cp37-cp37m-win_amd64.whl#sha256=de62be823a24b02dcdc3bb53564746dc4ab5e692974b3a0c731aab8e07dc742a
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+importlib-metadata==6.7.0
+imutils==0.5.4
+numpy==1.21.6
+opencv-python==4.5.4.60
+Pillow==9.5.0
+typing_extensions==4.7.1
+zipp==3.15.0
